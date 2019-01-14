@@ -14,9 +14,8 @@ import java.util.concurrent.locks.ReentrantReadWriteLock;
 
 /**
  * @author chenj
- * @date 2019-01-03 23:15
- * @company 广州易站通计算机科技有限公司
- * @email chenj@gzyitop.com
+ * @date 2019-01-13 17:21
+ * @email 924943578@qq.com
  */
 public class RedisCache implements Cache {
     private static final Logger logger= LoggerFactory.getLogger(RedisCache.class);

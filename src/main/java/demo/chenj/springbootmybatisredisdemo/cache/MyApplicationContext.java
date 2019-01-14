@@ -7,9 +7,8 @@ import org.springframework.stereotype.Component;
 
 /**
  * @author chenj
- * @date 2019-01-04 16:42
- * @company 广州易站通计算机科技有限公司
- * @email chenj@gzyitop.com
+ * @date 2019-01-13 17:21
+ * @email 924943578@qq.com
  */
 @Component
 public class MyApplicationContext implements ApplicationContextAware {
